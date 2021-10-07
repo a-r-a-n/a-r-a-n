@@ -1,6 +1,25 @@
-- 👋 Hi, I’m @a-r-a-n
-- 👀 Currently in High School 
-- 🌚 Avoiding bigger communities and dramas 
+
+
+###Hey :smile: 
+
+-  Hi, I’m @a-r-a-n.
+-  Currently in High School .
+-  Avoiding bigger communities and dramas.
+
+### I'm Currently Learning :computer:
+ >Backend -  Javascript, Python, PHP, Ruby, MySQL
+.
+.
+.
+
+
+### Less Go :turtle: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-r-a-n&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicalShadow)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!---
 a-r-a-n/a-r-a-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
