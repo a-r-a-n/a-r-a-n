@@ -17,7 +17,7 @@
 
 
 ### iOS Development
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-2C68B5?style=flat-square&logo=swift&logoColor=white)
 
