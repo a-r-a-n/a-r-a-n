@@ -15,11 +15,4 @@
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=a-r-a-n&show_icons=true&theme=radical)
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-<!-- Add more social media as needed -->
 
----
-
-⭐️ From [YourUsername](https://github.com/a-r-a-n)
