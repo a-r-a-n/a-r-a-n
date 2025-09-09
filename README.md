@@ -20,12 +20,13 @@
 
 ## 📊 GitHub Stats  
 
-![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-r-a-n&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-r-a-n&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=a-r-a-n&theme=tokyonight)  
 
 ---
 
 ## 🎵 Vibes While Coding  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)  
+## 🎵 Current Vibes  
+
+[![Spotify Song](https://spotify-github-profile.vercel.app/api/view?uid=3cd7p2945y1qv7td88i04lc4h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A?si=320e295183014c84)
+
 
