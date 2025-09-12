@@ -1,8 +1,8 @@
-# Hey! I'm Aran  
+## Hey! I'm Aran  
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🎓 Computer Science Student  
 
 ---
