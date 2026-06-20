@@ -21,8 +21,6 @@
 
 <div align="center">
 
-<sub>visitors</sub>
-
-<img src="https://count.getloli.com/@a-r-a-n?name=a-r-a-n&theme=green&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=flat&label=visitors" alt="visitors"/>
 
 </div>
