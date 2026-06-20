@@ -21,6 +21,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=for-the-badge&label=VISITORS" alt="visitors"/>
+<sub>visitors</sub>
+
+<img src="https://count.getloli.com/@a-r-a-n?name=a-r-a-n&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="visitor counter"/>
 
 </div>
