@@ -11,9 +11,9 @@
 </td>
 <td valign="middle" width="66%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=a-r-a-n&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3e74be&text_color=a0c4e8&icon_color=3e74be" width="100%" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arann1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3e74be&text_color=a0c4e8&icon_color=3e74be" width="100%" alt="stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a-r-a-n&hide_border=true&background=0d1117&ring=3e74be&fire=3e74be&currStreakLabel=3e74be&sideLabels=a0c4e8&currStreakNum=ffffff&sideNums=ffffff&dates=5a7da0&stroke=3e74be" width="100%" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arann1&hide_border=true&background=0d1117&ring=3e74be&fire=3e74be&currStreakLabel=3e74be&sideLabels=a0c4e8&currStreakNum=ffffff&sideNums=ffffff&dates=5a7da0&stroke=3e74be" width="100%" alt="streak"/>
 
 </td>
 </tr>
@@ -21,6 +21,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=flat&label=visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=arann1&color=3e74be&style=flat&label=visitors" alt="visitors"/>
 
 </div>
