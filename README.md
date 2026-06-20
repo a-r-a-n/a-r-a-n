@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="blue-cat.gif" height="120" alt="pixel cat"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3e74be&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+<img src="blue-cat.gif" height="130" alt="pixel cat"/>
 
 # `aran`
 
-`> computer science student_`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=3E74BE&center=true&vCenter=true&width=440&lines=%3E+computer+science+student_;%3E+building+things+%2B+breaking+them_;%3E+powered+by+coffee+and+ctrl%2Bz_)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,6 +15,12 @@
 
 <br/>
 
-`[ press start ]`
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+`[ press start ]` &nbsp;·&nbsp; `:(){ :|:& };:`
+
+<img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=flat&label=visitors" alt="visitors"/>
 
 </div>
