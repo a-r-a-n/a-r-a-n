@@ -23,6 +23,6 @@
 
 <sub>visitors</sub>
 
-<img src="https://count.getloli.com/@a-r-a-n?name=a-r-a-n&theme=nixietube-1&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="visitor counter"/>
+<img src="https://count.getloli.com/@a-r-a-n?name=a-r-a-n&theme=green&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="visitor counter"/>
 
 </div>
