@@ -21,6 +21,6 @@
 
 <div align="center">
 
-`[ press start ]` &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=flat&label=visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=a-r-a-n&color=3e74be&style=for-the-badge&label=VISITORS" alt="visitors"/>
 
 </div>
